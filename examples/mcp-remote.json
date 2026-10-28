@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "cbam": {
+      "type": "http",
+      "url": "https://cbamdata.eu/mcp",
+      "headers": {
+        "Authorization": "Bearer cbam_live_your_key_here"
+      }
+    }
+  }
+}

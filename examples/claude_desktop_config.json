@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "cbam": {
+      "command": "npx",
+      "args": ["-y", "@cbamdata/mcp"],
+      "env": {
+        "CBAM_API_KEY": "cbam_live_your_key_here"
+      }
+    }
+  }
+}
